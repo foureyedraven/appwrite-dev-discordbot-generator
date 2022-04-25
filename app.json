@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
-    "version": "1.0.0",
+    "name": "appwrite-dev-discordbot-generator",
+    "slug": "appwrite-dev-discordbot-generator",
+    "version": "0.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
